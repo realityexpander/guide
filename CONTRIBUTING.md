@@ -88,7 +88,7 @@ Watch the video demonstration or follow the steps below it:
 
 ### Cloning Locally
 
-1. Fork this repository
+1. Fork this repository : ![Fork this repository button](https://i.imgur.com/3SuSq8j.png)
 
 2. Copy it to your local machine by running the following command:
 
